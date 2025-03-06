@@ -1,7 +1,3 @@
-# Skills Overview
-
-This file provides an overview of the **technical** and **non-technical** skills applied in this project.
-
 ## 🔹 Technical Skills
 
 ### **Data Processing & Statistical Analysis**
