@@ -10,3 +10,7 @@ Clustering is a method used to find groups of people who have similar behaviours
 Supervised learning involves training a computer to recognise patterns and make predictions. Here, we use past data to teach a model how to classify individuals into different obesity levels based on their habits. Once trained, the model can predict a person’s obesity risk just by looking at their diet and activity details.
 
 Each of these methods helps in understanding obesity trends, grouping people based on their habits, and making predictions about who is at risk—offering valuable insights for health interventions.
+
+## 🔗 Further Resources  
+
+For direct access to the **full report, dataset, code, and skill breakdown**, visit the **[Key Links](key_links.md)** file, which contains all relevant project resources.
